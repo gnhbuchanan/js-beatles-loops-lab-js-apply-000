@@ -11,8 +11,23 @@ function theBeatlesPlay(mems,instruments){
     
   }
   
-  
-  
-  
   return result; 
 }
+
+function johnLennonFacts(arr){
+  
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
