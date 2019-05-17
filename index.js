@@ -32,6 +32,22 @@ function johnLennonFacts(arr){
 }
 
 
+const iLoveTheBeatles = num =>{
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
