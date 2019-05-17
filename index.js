@@ -21,11 +21,9 @@ function johnLennonFacts(arr){
   while(result.length < arr.length){
     
    for(let i = 0; i < arr.length; i++){
-     
-   }
     let words = arr[i] + '!!!';
     result.push(words);
-    i++;
+   }
     
   }
   
